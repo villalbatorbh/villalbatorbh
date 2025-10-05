@@ -9,7 +9,7 @@
 - Diseño y desarrollo de páginas web profesionales  
 - Creación de tiendas online y landing pages  
 - Optimización SEO y posicionamiento web  
-- Asesoría para negocios digitales sin inversión inicial  
+- Asesoría para negocios digitales a bajo coste  
 
 ---
 
@@ -44,9 +44,9 @@ Tu web se actualizará automáticamente en unos segundos gracias a **GitHub Page
 ## 📞 Contacto
 
 **Villalbator Bussines House**  
-📧 info@villalbatorbh.com  
+📧 villalbatorbh@gmail.com  
 📞 +34 634 853 268  
-🌍 [https://villalbatorbh.github.io/villalbatorbh/](https://villalbatorbh.github.io/villalbatorbh/)  
+🌍 https://villalbatorbh.github.io/villalbatorbh/
 
 ---
 
